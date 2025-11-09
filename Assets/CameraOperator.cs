@@ -6,8 +6,8 @@ public class CameraOperator : MonoBehaviour
 {
     // Start is called before the first frame update
     GameObject player;
-    Vector3 offset = new Vector3(0, 10, -18);
-    Vector3 angle = new Vector3(30, 0, 0);
+    Vector3 offset = new Vector3(0, 20, -20);
+    Vector3 angle = new Vector3(30, 20, 0);
     int follow_height = 5;
     void Start()
     {
